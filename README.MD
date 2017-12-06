@@ -12,6 +12,6 @@
 
 - 运行dump.py，将数据导入mysql中
 
-- 运行sql语句，向其他表插入数据
+- 运行proc.sql，向其他表插入数据
 
 - 运行spider.py，获取商品信息
